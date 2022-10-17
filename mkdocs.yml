@@ -8,6 +8,8 @@ theme:
 
 nav:
   - Introduction: "index.md"
+  - AWS: "pages/AWS.md"
+  - Conditional State: "pages/ConditionalState.md"
   - Tutorial:
     - Tutorial Subsection: "pages/tutorial/tutorial_subsection.md"
   - About: "pages/About.md"
